@@ -1,6 +1,6 @@
 # Machine Learning Cheatsheets
 
-The goal of this repo is to compile a loose collections of math formulas, code snippets, demos, etc. that can be useful in explaining machine learning concepts. 
+The goal of this repo is to compile a loose collection of math topics, machine learning concepts, code snippets, demos, etc. that can be useful in explaining machine learning concepts. 
 
 __Sources__:
 
