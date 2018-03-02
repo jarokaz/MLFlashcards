@@ -18,4 +18,4 @@ __Sources__:
 7.  Dimitri P. Bertsekas, John N. Tsitsiklis (2008). Introduction to Probability
 8.  Sebastian Raschka et. al. (2017). Python Machine Learning
 
-Since Github can be finicky in rendering Jupyter notebooks, especially ones with extensive LaTex content, it is recommend to clone the repo and render the notebooks in your local Jupyter runtime.
+Since Github can be finicky with rendering Jupyter notebooks, especially ones with extensive LaTex content, it is recommend to clone the repo and render the notebooks in your local Jupyter runtime.
