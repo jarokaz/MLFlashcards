@@ -4,7 +4,7 @@ This repo is a compilation of flash cards summarizing machine learning concepts,
 
 I have created them as an aid for delivering workshops, hackathons, and deep dive presentations.
 
-The flash cards are excerpts and/or summaries taken from the following reading list. It is highly recommended to refer to these publications for detailed explanations.
+The flash cards are excerpts and paraphrases taken from the following reading list. It is highly recommended to refer to these publications for detailed explanations.
 
 
 __Sources__:
