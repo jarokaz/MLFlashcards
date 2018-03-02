@@ -1,6 +1,8 @@
 # Machine Learning Flashcards
 
-This repo is a compilation of flash cards summarizing AI/ML math foundations, machine learning concepts, code snippets, etc. that can help facilitate ML/AI workshops, design sessions, and deep dive presentations. 
+This repo is a compilation of flash cards summarizing machine learning concepts, algorithms, math formulas, and more. The flash cards are implemented in Jupyter notebooks and formated to support easy conversion to Jupyter slides.
+
+I have created them as an aid for delivering workshops, hackathons, and deep dive presentations.
 
 The flash cards are excerpts and/or summaries taken from the following reading list. It is highly recommended to refer to these publications for detailed explanations.
 
